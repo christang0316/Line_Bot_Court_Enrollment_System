@@ -22,8 +22,8 @@ This project is a **LINE bot** that allows users to **join queues** for differen
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/line-badminton-queue-bot.git
-   cd line-badminton-queue-bot
+   git clone https://github.com/christang0316/Line_Bot_Court_Enrollment_System.git
+   cd Line_Bot_Court_Enrollment_System
    ```
 
 2. **Set up the environment**:
@@ -36,7 +36,7 @@ This project is a **LINE bot** that allows users to **join queues** for differen
      DATABASE_URL=mysql+pymysql://user:password@localhost:3306/line_queue?charset=utf8mb4
      ```
 
-   * Replace `your_channel_access_token`, `your_channel_secret`, and `user:password` with your actual credentials.
+   * Replace `your_channel_access_token`, `your_channel_secret`, and `user:password` with your actual credentials from Line Developer.
 
 3. **Set up the database**:
 
